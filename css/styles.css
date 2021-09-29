@@ -16,6 +16,7 @@ h1, h2, p, ul, li {
 p {
 	font-size: 1.4em;
 	line-height: 1.4em;
+    font-family: "Times New Roman", Times, serif;
 }
 
 ul {
