@@ -88,12 +88,12 @@ span.amp {
 #content2 {
     margin-left: 300px;
     padding-left: 20px;
-    margin: -200px 0 20px 300px;
+    margin: -200px 0 20px 100px;
 }
 
 #content h1 {
 	font-size: 40px;
-    margin-top: -200px ;
+    margin-top: -300px ;
    
 }
 
