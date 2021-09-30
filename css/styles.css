@@ -71,17 +71,6 @@ span.amp {
 	margin: 0 0 0 50px;
 }
 
-#nav li a {
-    display: flex;
-    color: rgb(102, 102, 102);
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-  }
-  
-  li a:hover {
-    background-color: #111;
-  }
 
 #wrap {
 	clear: both;
