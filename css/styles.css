@@ -46,7 +46,7 @@ span.amp {
 	margin-top: 10px;
 	width: 800px;
 	background-image: url(img/sea.jpg);
-    background-size: 800px 300px;
+    background-size: 800px 500px;
     background-repeat: no-repeat;
 }
 
@@ -112,7 +112,10 @@ span.amp {
 #content h1 {
 	font-size: 60px;
 }
-
+#content li {
+	display: inline;
+    float: right;
+}
 #content h2 {
 	font-size: 2.4em;
 	margin: 0 0 10px 0;
