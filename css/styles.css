@@ -51,7 +51,7 @@ span.amp {
 #masthead h1 {
 	float: left;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 80px;
+    font-size: 60px;
 }
 
 #nav {
@@ -101,6 +101,10 @@ span.amp {
 
 #content {
 	float: right;
+}
+
+#content h1 {
+	font-size: 60px;
 }
 
 #content h2 {
