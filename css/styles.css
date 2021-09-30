@@ -126,7 +126,7 @@ span.amp {
 #link-list {
     float: left;
 	margin: 20px 0 0 0;
-	font-size: 1.4em;
+	font-size: 1em;
 }
 
 #link-list2 {
@@ -140,6 +140,10 @@ span.amp {
 
 	font-size: 1.4em;
     
+}
+#link-list li {
+
+	font-size: 1em;
 }
 
 
