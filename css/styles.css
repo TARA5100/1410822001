@@ -46,7 +46,7 @@ span.amp {
 	margin-top: 10px;
 	width: 800px;
 	background-image: url(img/sea.jpg);
-    background-size: 800px 500px;
+    background-size: 800px 600px;
     background-repeat: no-repeat;
 }
 
@@ -109,7 +109,7 @@ span.amp {
 
 #link-list2 {
     float: right;
-	margin: 20px 0 0 0;
+	margin: 10px 0 0 0;
 	font-size: 1.4em;
     list-style-type: circle;
 }
