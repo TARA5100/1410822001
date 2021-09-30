@@ -80,15 +80,15 @@ span.amp {
 }
 
 #Content {
-	width: 400px;
+	width: 500px;
 	margin: 0px 0 20px 0;
 	padding: 10px;
 }
 
 #content2 {
-    margin-left: 100px;
+    margin-left: 200px;
     padding-left: 20px;
-    margin: -300px 0 20px 100px;
+    margin: -200px 0 20px 100px;
 }
 
 #content h1 {
