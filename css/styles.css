@@ -73,7 +73,7 @@ span.amp {
 
 #nav li a {
     display: flex;
-    color: white;
+    color: rgb(102, 102, 102);
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -134,6 +134,9 @@ span.amp {
 	font-size: 1.4em;
     
 }
+#link-list li {
+	margin: 0 0 10px 0;
+}
 
 #link-list2 {
     float: right;
@@ -141,7 +144,7 @@ span.amp {
 	font-size: 1.4em;
     list-style-type: circle;
 }
-#link-list li {
+#link-list2 li {
 	margin: 0 0 10px 0;
 }
 
