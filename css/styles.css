@@ -46,7 +46,7 @@ span.amp {
 	margin-top: 10px;
 	width: 800px;
 	background-image: url(img/sea.jpg);
-    background-size: 800px 300px;
+    background-size: 800px 500px;
     background-repeat: no-repeat;
 }
 
@@ -58,10 +58,9 @@ span.amp {
 }
 
 #nav {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 1.7em;
     background-image: linear-gradient(rgb(73, 73, 73),rgb(0, 0, 0));
 }
 
@@ -94,8 +93,8 @@ span.amp {
     font-family: fantasy;
 }
 
-#Content, #sidebar {
-	width: 360px;
+#Content {
+	width: 500px;
 	margin: 20px 0 20px 0;
 	padding: 10px;
 }
