@@ -170,9 +170,10 @@ span.amp {
 	border-radius: 25px;
     background-image: linear-gradient( rgb(73, 73, 73),rgb(0, 0, 0));
     padding: 20px;
-    width: 200px;
-    height: 30px;
-    font-size: 3em;
+    width: 100px;
+    height: 10px;
+    font-size: 1.4em;
     font-family: Helvetica, sans-serif;
+    color: #fff;
   }
 
