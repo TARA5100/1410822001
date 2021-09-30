@@ -94,13 +94,13 @@ span.amp {
 	background: url('../Shared%20Documents/images/tagline_bg.gif') repeat-x;
 }
 
-#content, #sidebar {
+#Content, #sidebar {
 	width: 360px;
 	margin: 20px 0 20px 0;
 	padding: 10px;
 }
 
-#content {
+#content2 {
 	float: right;
 }
 
@@ -118,6 +118,7 @@ span.amp {
 }
 
 #link-list {
+    float: left;
 	margin: 20px 0 0 0;
 	font-size: 1.4em;
 }
