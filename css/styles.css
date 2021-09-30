@@ -81,14 +81,14 @@ span.amp {
 
 #Content {
 	width: 300px;
-	margin: 0 0 20px 0;
+	margin: -200px 0 20px 0;
 	padding: 10px;
 }
 
 #content2 {
-    margin-left: 300px;
+    margin-left: 200px;
     padding-left: 20px;
-    margin: -100px 0 20px 0;
+    margin: -200px 0 20px 0;
 }
 
 #content h1 {
