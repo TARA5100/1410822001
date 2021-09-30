@@ -122,9 +122,10 @@ span.amp {
 }
 
 #link-list {
-    float: left;
+    float: right;
 	margin: 20px 0 0 0;
 	font-size: 1.4em;
+    list-style-type: circle;
 }
 
 #link-list li {
