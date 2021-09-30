@@ -114,7 +114,7 @@ span.amp {
 #content2 {
     float: left;
     padding: 20px;
-    width: 500px;
+    width: 300px;
     background-color: #f1f1f1;
     height: 300px;
 }
@@ -136,9 +136,7 @@ span.amp {
     float: left;
 	margin: 20px 0 0 0;
 	font-size: 1.4em;
-    content: "";
-    display: table;
-    clear: both;
+    
     
 }
 #link-list li {
