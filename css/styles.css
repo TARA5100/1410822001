@@ -111,7 +111,7 @@ span.amp {
 }
 
 #content h1 {
-	font-size: 60px;
+	font-size: 40px;
 }
 
 #content h2 {
@@ -134,6 +134,12 @@ span.amp {
 	margin: 20px 0 0 0;
 	font-size: 1.4em;
     list-style-type: circle;
+}
+
+#link-list p {
+
+	font-size: 1.4em;
+    
 }
 
 
