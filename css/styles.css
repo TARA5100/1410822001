@@ -192,13 +192,7 @@ span.amp {
   }
 
   article {
-    float: left;
+    float: right;
     padding: 20px;
     width: 70%;
-  }
-
-  section::after {
-    content: "";
-    display: table;
-    clear: both;
   }
