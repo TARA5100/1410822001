@@ -57,10 +57,32 @@ span.amp {
     margin-right: 20px;
 }
 
-#flex-nav{
-    display: inline-block;
-    text-align: center;
+#nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-image: linear-gradient(rgb(73, 73, 73),rgb(0, 0, 0));
 }
+
+ 
+#nav li {
+	display: inline;
+	margin: 0 0 0 50px;
+}
+
+#nav li a {
+    display: flex;
+    color: rgb(102, 102, 102);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+
 #wrap {
 	clear: both;
 	margin: 0 auto;
@@ -90,7 +112,8 @@ span.amp {
 }
 
 #content2 {
-    float: right;
+    margin-left: 200px;
+    padding-left: 20px;
     
 }
 
@@ -119,6 +142,7 @@ span.amp {
 	font-size: 1.4em;
     list-style-type: circle;
 }
+
 
 
 #sidebar {
