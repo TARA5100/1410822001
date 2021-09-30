@@ -43,9 +43,11 @@ span.amp {
  
 #masthead {
 	margin: 0 auto ;
-	margin-top: 500px;
+	margin-top: 10px;
 	width: 800px;
 	background-image: url(img/sea.jpg);
+    background-size: 800px 500px;
+    background-repeat: no-repeat;
 }
 
 #masthead h1 {
