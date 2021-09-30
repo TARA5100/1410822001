@@ -76,28 +76,6 @@ span.amp {
     background: none;
 }
 
-#wrap {
-	clear: both;
-	margin: 0 auto;
-	padding: 10px;
-	width: 780px;
-	background: #fff;
-	border: 10px solid #5c0505;
-}
-
-#header img {
-	border: 10px solid #ccc;
-}
-
-#header h1 {
-	font-size: 2em;
-	margin: 10px 0 0 0;
-	padding: 10px;
-	text-align: center;
-	background: url(img/sea.jpg); 
-    font-family: fantasy;
-}
-
 #Content {
 	width: 500px;
 	margin: 20px 0 20px 0;
