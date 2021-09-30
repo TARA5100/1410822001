@@ -43,15 +43,15 @@ span.amp {
  
 #masthead {
 	margin: 0 auto ;
-	margin-top: 400px;
+	margin-top: 500px;
 	width: 800px;
 	background-image: url(img/sea.jpg);
 }
 
 #masthead h1 {
 	float: left;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 60px;
+    font-family: sans-serif;
+    font-size: 30px;
 }
 
 #nav {
@@ -92,6 +92,7 @@ span.amp {
 	padding: 10px;
 	text-align: center;
 	background: url('../Shared%20Documents/images/tagline_bg.gif') repeat-x;
+    font-family: fantasy;
 }
 
 #Content, #sidebar {
