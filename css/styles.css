@@ -112,11 +112,8 @@ span.amp {
 }
 
 #content2 {
-    float: left;
-    padding: 20px;
-    width: 300px;
-    background-color: #f1f1f1;
-    height: 300px;
+    float: right;
+    
 }
 
 #content h1 {
