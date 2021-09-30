@@ -167,9 +167,10 @@ span.amp {
 }
 
 #button {
-	background-image: linear-gradient( rgb(73, 73, 73),rgb(0, 0, 0));
-    color: white;
-    border: 5px solid #555555;
-    border-radius: 12px;
+	border-radius: 25px;
+    background: linear-gradient( rgb(73, 73, 73),rgb(0, 0, 0));
+    padding: 20px;
+    width: 200px;
+    height: 30px;
   }
 
