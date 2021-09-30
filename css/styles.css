@@ -146,3 +146,10 @@ span.amp {
 	text-align: center;
 	background-image: linear-gradient(red, yellow);
 }
+#black {
+	color: rgb(0, 0, 0);
+}
+
+#white {
+	color: rgb(255, 255, 255);
+}
