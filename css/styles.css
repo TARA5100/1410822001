@@ -94,7 +94,7 @@ span.amp {
 	margin: 10px 0 0 0;
 	padding: 10px;
 	text-align: center;
-	background: url('../Shared%20Documents/images/tagline_bg.gif') repeat-x;
+	background: url(img/sea.jpg); 
     font-family: fantasy;
 }
 
