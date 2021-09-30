@@ -54,6 +54,7 @@ span.amp {
 	float: left;
     font-family: sans-serif;
     font-size: 30px;
+    margin-right: 20px;
 }
 
 #nav {
@@ -150,11 +151,10 @@ span.amp {
 
 #footer {
 	clear: both;
-	background: #eee;
 	padding: 10px;
 	border-top: 2px solid #ddd;
 	text-align: center;
-	background-image: linear-gradient(rgb(0, 0, 0), rgb(190, 190, 190));
+	background-image: linear-gradient(rgb(0, 0, 0), rgb(73, 73, 73));
 }
 #black {
 	color: rgb(0, 0, 0);
