@@ -196,3 +196,9 @@ span.amp {
     padding: 20px;
     width: 70%;
   }
+
+  section::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
