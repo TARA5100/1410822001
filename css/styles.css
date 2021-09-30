@@ -58,23 +58,30 @@ span.amp {
 }
 
 #nav {
-	float: center;
-	margin: 50px 10px 0 0;
-	font-size: 1.4em;
-    text-align: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-image: linear-gradient(rgb(73, 73, 73),rgb(0, 0, 0));
 }
 
  
 #nav li {
 	display: inline;
-	margin: 0 0 0 20px;
+	margin: 0 0 0 50px;
 }
 
 #nav li a {
-	color: #fff;
-	text-decoration: none;
-	background: none;
-}
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
 
 #wrap {
 	clear: both;
@@ -128,6 +135,12 @@ span.amp {
     list-style-type: circle;
 }
 
+#link-list2 {
+    float: right;
+	margin: 20px 0 0 0;
+	font-size: 1.4em;
+    list-style-type: circle;
+}
 #link-list li {
 	margin: 0 0 10px 0;
 }
