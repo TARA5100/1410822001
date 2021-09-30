@@ -175,5 +175,6 @@ span.amp {
     font-size: 1.4em;
     font-family: Helvetica, sans-serif;
     color: #fff;
+    border: 2px solid rgb(170, 170, 170);
   }
 
