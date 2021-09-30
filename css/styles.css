@@ -133,11 +133,6 @@ span.amp {
     float: left;
 	margin: 20px 0 0 0;
 	font-size: 1.4em;
-    
-    
-}
-#link-list li {
-	margin: 0 0 10px 0;
 }
 
 #link-list2 {
@@ -146,8 +141,9 @@ span.amp {
 	font-size: 1.4em;
     list-style-type: circle;
 }
-#link-list2 li {
+#link-list2 p {
 	margin: 0 0 10px 0;
+    list-style-type: circle;
 }
 
 #sidebar {
