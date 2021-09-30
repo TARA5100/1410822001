@@ -62,7 +62,7 @@ span.amp {
     margin: 100px 0 0 0;
     font-size: 1.7em;
     background-image: linear-gradient(rgb(73, 73, 73),rgb(0, 0, 0));
-    height: 50px;
+    height: 30px;
 }
 
  
@@ -75,7 +75,7 @@ span.amp {
 	color: #fff;
 	text-decoration: none;
     background: none;
-   
+    margin: 10px 0 10px 0;
     
 }
 
